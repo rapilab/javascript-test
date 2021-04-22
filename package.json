@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^8.3.2"
+  },
+  "wallaby": {
+    "autoDetect": true
   }
 }
